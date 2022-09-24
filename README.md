@@ -8,6 +8,8 @@
 ### Status
 <p align="center" height="100%"> 
   <img alt="github stats" style="height:50%; width:58%" src="https://github-readme-stats.vercel.app/api?username=naosuke884&theme=tokyonight&show_icons=ture&hide_border=true" />
+  
   <img alt="Top Langs" style="height:50%; width:41%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naosuke884&layout=compact&theme=tokyonight&hide_border=true" />
+  
   <img alt="github stats" style="height:50%; width:100%" src="https://activity-graph.herokuapp.com/graph?username=naosuke884&bg_color=1a1b27&color=628fdb&line=628fdb&point=38bdae&area=true&hide_border=true" />
 </p> 
