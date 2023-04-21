@@ -11,5 +11,5 @@
   
   <img alt="Top Langs" style="height:50%; width:41%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naosuke884&layout=compact&theme=tokyonight&hide_border=true" />
   
-  <img alt="github stats" style="height:50%; width:100%" src="https://activity-graph.herokuapp.com/graph?username=naosuke884&bg_color=1a1b27&color=628fdb&line=628fdb&point=38bdae&area=true&hide_border=true" />
+  <img alt="github stats" style="height:50%; width:100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=naosuke884&bg_color=1a1b27&color=38bdae&line=74a8fb&point=9982c4&area=true&hide_border=true" />
 </p> 
