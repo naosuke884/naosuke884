@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ML(Machin Learning)
+- I'm interested in web development and machine learning.
 
 ### Status
 <p align="center" height="100%"> 
