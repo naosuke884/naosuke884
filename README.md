@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- I'm interested in web development and machine learning.
+- I'm web developer (2016~)
